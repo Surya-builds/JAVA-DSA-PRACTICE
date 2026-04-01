@@ -1,25 +1,29 @@
-# Java Basics Practice
+# Java DSA Practice
 
-This repository contains my Java fundamentals practice as part of my placement preparation.
+This repository contains my Java programming and DSA practice as part of my placement preparation and problem-solving journey.
 
 ## Topics Covered
+### Java Fundamentals
 - Variables & Data Types
 - Input / Output using Scanner
-- Conditional Statements (if-else)
-- Loops (for, while, do-while)
-- Functions (with parameters and return values)
+- Conditional Statements
+- Loops
+- Functions
 - Basic logical problems
 
-## Sample Programs
-- Average of 3 numbers
-- Sum of odd numbers from 1 to n
-- Greater of two numbers
-- Circumference of a circle
-- Voting eligibility check
-- Infinite loop using do-while
-- Counting positive, negative, and zero inputs
+### Arrays & DSA Basics
+- Check if array is sorted
+- Find second largest element
+- Linear search
+- Count occurrences
+- Average of array elements
+- Bubble sort
+- Basic searching and sorting logic
 
-## Language
-- Java
+## Folder Structure
+- Basics
+- Day1
+- Day2
+- Arrays
 
-This repository focuses on building a strong programming foundation through hands-on coding.
+This repository focuses on building strong fundamentals in Java and Data Structures through consistent hands-on coding.
